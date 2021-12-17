@@ -1,9 +1,37 @@
 body{
   font-family: 'Poppins', sans-serif;
+  margin: 0px;
 }
 h1{
   font-size: 50px;
 }
 .orange{
   color: orange;
+}
+
+section{
+
+  display: flex;
+}
+
+
+.half{
+  padding: 50px;
+}
+
+.linkbutton{
+
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  padding: 10px 40px ;
+  border-radius: 6px;
+  color: white;
+  font-weight: 700px;
+}
+
+.top-banner{
+
+  background-image: url(image/rose1.jpg);
+  background-repeat: no-repeat;
+
 }
