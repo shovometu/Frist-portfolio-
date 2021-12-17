@@ -10,7 +10,7 @@ h1{
   color: orange;
 }
 
-section{
+.falex{
 
   display: flex;
   margin-bottom: 100px;
@@ -19,8 +19,16 @@ section{
 
 .half{
   padding: 50px;
+  
 }
-
+.half2{
+  
+  box-shadow: 10px 10px 40px rgb(0, 0, 0);
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 30px;
+  
+}
 .linkbutton{
 
   text-decoration: none;
